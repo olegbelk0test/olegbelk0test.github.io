@@ -4,7 +4,7 @@
 
 |                                           |                                               |
 |:-----------------------------------------:|:---------------------------------------------:|
-|       [ 🔐Вхід в систему](login.md)       | [📜Інструкції для користувачів](User_Manual/UM_ToC.md) |
+|       [ 🔐Вхід в систему](login_logout.md)       | [📜Інструкції для користувачів](User_Manual/UM_ToC.md) |
 | [🙋Вирішення проблем](troubleshooting.md) |     [📱Мобільний додаток](mobeileapp.md)      |
 | [📚Release Notes](releasenotes/ReleaseNotes.md) |                                               |
 ---
